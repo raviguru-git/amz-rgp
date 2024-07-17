@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Starting setup method]]>
+    </line>
+    <line>
+      <![CDATA[openbrowser() is started]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-09T15:49:27 IST" name="Default suite" finished-at="2024-07-09T15:51:04 IST" duration-ms="96920">
+    <groups>
+    </groups>
+    <test started-at="2024-07-09T15:49:27 IST" name="Default test" finished-at="2024-07-09T15:51:04 IST" duration-ms="96920">
+      <class name="com.amazon.product.testclass.TestSuite">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.product.testclass.TestSuite@34a1d21f]" started-at="2024-07-09T15:49:27 IST" name="setup" finished-at="2024-07-09T15:49:33 IST" duration-ms="6305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Starting setup method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.amazon.product.testclass.TestSuite@34a1d21f]" started-at="2024-07-09T15:49:33 IST" name="login" finished-at="2024-07-09T15:49:48 IST" duration-ms="14628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.amazon.product.testclass.TestSuite@34a1d21f]" started-at="2024-07-09T15:49:48 IST" name="openBrowser" finished-at="2024-07-09T15:49:50 IST" duration-ms="2456" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openbrowser() is started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="amazon_srch_add_to_cart()[pri:0, instance:com.amazon.product.testclass.TestSuite@34a1d21f]" started-at="2024-07-09T15:49:50 IST" name="amazon_srch_add_to_cart" finished-at="2024-07-09T15:51:00 IST" duration-ms="69325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_srch_add_to_cart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.product.testclass.TestSuite@34a1d21f]" started-at="2024-07-09T15:51:00 IST" name="tearDown" finished-at="2024-07-09T15:51:04 IST" duration-ms="4092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.product.testclass.TestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

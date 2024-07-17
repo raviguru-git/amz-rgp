@@ -1,0 +1,109 @@
+2024-07-09T10:34:46,363 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:05:36,269 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:05:50,444 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:07:21,843 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:07:26,008 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:23:07,604 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:23:14,235 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:25:54,599 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:25:58,681 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:26:02,093 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T11:26:02,312 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T11:29:46,630 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:29:55,661 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:29:58,518 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T11:30:00,689 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T11:30:38,738 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:30:45,519 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:30:48,242 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T11:30:50,634 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T11:45:41,894 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:45:48,928 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:45:51,689 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T11:45:54,355 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T11:48:37,698 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:48:41,918 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:48:45,808 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T11:48:49,634 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T11:50:02,073 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:50:06,205 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:50:11,939 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T11:50:15,261 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T11:56:00,417 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T11:56:06,589 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T11:56:09,787 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T12:01:49,840 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T12:01:54,301 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T12:01:57,467 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T12:08:53,272 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T12:09:00,186 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T12:09:03,509 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T12:09:11,359 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T12:11:07,560 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T12:11:11,863 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T12:11:14,456 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T12:11:24,872 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T12:13:23,684 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T12:17:42,515 [main] INFO  testclass.TestSuite - Navigated to amazon site
+2024-07-09T12:17:46,640 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T12:17:49,384 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T12:18:00,914 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T13:07:23,860 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T13:07:32,315 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T13:07:35,529 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T13:10:51,109 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T13:10:58,547 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T13:11:01,360 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T13:16:25,658 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T13:16:32,173 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T13:19:29,181 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T13:19:34,715 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T13:19:38,736 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T13:22:59,547 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T13:23:05,415 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T13:23:08,649 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T13:23:16,597 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T13:40:29,348 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T13:40:35,967 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T13:40:38,812 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T13:40:46,884 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T13:40:53,340 [main] INFO  testclass.TestSuite - Navigated to Product details page
+2024-07-09T14:18:48,355 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T14:18:55,187 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T14:18:58,455 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T14:19:06,890 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T14:33:03,771 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T14:33:11,089 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T14:33:14,170 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T14:33:21,835 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T14:36:20,740 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T14:36:27,885 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T14:36:31,027 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T14:36:38,603 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T15:26:49,578 [main] INFO  testclass.TestSuite - Action 1 started:
+2024-07-09T15:26:49,595 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T15:26:56,833 [main] INFO  testclass.TestSuite - Search text sam is entered now
+2024-07-09T15:27:04,691 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T15:27:05,079 [main] INFO  testclass.TestSuite - Action 2 started:
+2024-07-09T15:27:05,084 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T15:27:35,622 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T15:27:39,923 [main] INFO  testclass.TestSuite - Action 3 started:
+2024-07-09T15:27:42,105 [main] INFO  testclass.TestSuite - Action 4 started:
+2024-07-09T15:27:47,777 [main] INFO  testclass.TestSuite - Comparing actual and expected values in the cart page using Assertion
+2024-07-09T15:27:47,936 [main] INFO  testclass.TestSuite - Starting tearDown() now
+2024-07-09T15:27:49,857 [main] INFO  testclass.TestSuite - Successfully closed driver instance
+2024-07-09T15:49:50,996 [main] INFO  testclass.TestSuite - Action 1 started:
+2024-07-09T15:49:51,021 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-09T15:49:56,813 [main] INFO  testclass.TestSuite - Search text sam is entered now
+2024-07-09T15:50:05,837 [main] INFO  testclass.TestSuite - Entered search text in textbox
+2024-07-09T15:50:06,423 [main] INFO  testclass.TestSuite - Action 2 started:
+2024-07-09T15:50:06,427 [main] INFO  testclass.TestSuite - Navigated to Search results page
+2024-07-09T15:50:45,088 [main] INFO  testclass.TestSuite - Selected high mob value of Samsung 5g mob:
+2024-07-09T15:50:49,684 [main] INFO  testclass.TestSuite - Action 3 started:
+2024-07-09T15:50:52,201 [main] INFO  testclass.TestSuite - Action 4 started:
+2024-07-09T15:51:00,135 [main] INFO  testclass.TestSuite - Comparing actual and expected values in the cart page using Assertion
+2024-07-09T15:51:00,236 [main] INFO  testclass.TestSuite - Starting tearDown() now
+2024-07-09T15:51:04,327 [main] INFO  testclass.TestSuite - Successfully closed driver instance
+2024-07-16T14:12:41,201 [main] INFO  testclass.TestSuite - Action 1 started:
+2024-07-16T14:12:43,309 [main] INFO  testclass.TestSuite - Navigated to amazon site which is: www.amazon.in
+2024-07-16T14:13:35,942 [main] INFO  testclass.TestSuite - Printing driver value for HomePage here:ChromeDriver: chrome on windows (a3e1ede8e65e514295aa688228c5295e)

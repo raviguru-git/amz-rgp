@@ -1,0 +1,9 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.amazon.product.testclass.TestSuite"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
