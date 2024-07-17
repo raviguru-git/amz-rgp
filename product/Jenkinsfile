@@ -17,7 +17,7 @@ pipeline {
             steps {
                 dir('product') {
                     echo 'Building the project...'
-                    sh 'mvn clean install -X'
+                    bat 'mvn clean install -X'
                 }
             }
         }
@@ -26,7 +26,7 @@ pipeline {
             steps {
                 dir('product') {
                     echo 'Running tests...'
-                    sh 'mvn test -X'
+                    bat 'mvn test -X'
                 }
             }
         }
