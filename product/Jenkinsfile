@@ -1,27 +1,33 @@
 pipeline {
     agent any
 
+    tools {
+        maven 'M2_HOME' // Ensure the Maven installation name matches your Jenkins configuration
+        jdk 'JAVA_HOME'         // Ensure the JDK installation name matches your Jenkins configuration
+    }
+
     stages {
         stage('Checkout') {
             steps {
-                // Checkout your code from your source control
-                git 'https://github.com/raviguru-git/amz-rgp.git'
+                git url: 'https://github.com/raviguru-git/amz-rgp.git', branch: 'master'
             }
         }
 
         stage('Build') {
             steps {
-                echo 'Building the project...'
-                // Add your build command, e.g., for Maven
-                bat 'mvn clean install'
+                dir('product') {
+                    echo 'Building the project...'
+                    sh 'mvn clean install -X'
+                }
             }
         }
 
         stage('Test') {
             steps {
-                echo 'Running tests...'
-                // Run your tests
-                bat 'mvn test'
+                dir('product') {
+                    echo 'Running tests...'
+                    sh 'mvn test -X'
+                }
             }
         }
     }
